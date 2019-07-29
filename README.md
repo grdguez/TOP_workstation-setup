@@ -1,2 +1,2 @@
 # TOP_workstation-setup
-Workstation setup for The Odin Project.
+Linux Workstation setup for The Odin Project.
